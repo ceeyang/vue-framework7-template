@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "webapp",
+  "short_name": "webapp",
+  "version": "com.ceeyang.webapp",
+  "description": "Brand new cordova project!",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}

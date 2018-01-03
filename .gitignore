@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Webstorm
+.idea/
+
+# Node
+node_modules/
+npm-debug.log
+
+# res
+*.log
+*.tmp
+.tmp.
+log.txt
